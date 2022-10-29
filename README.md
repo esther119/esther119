@@ -17,7 +17,7 @@
 📫 How to reach me: lampmaa22@gmail.com, [linkedin](https://www.linkedin.com/in/esther-yang1997/)
 
 ⚡️ To learn more about me, visit 
-- [my website](https://www.notion.so/selflearning/Esther-Yang-693c2bb1cba7461e8dc7e6c47ea3fe5f)
-- [my writing](https://lampmaa22.medium.com/capstone-side-project-management-best-practices-a416086351c0)
-- [my book list](https://www.notion.so/selflearning/Readwise-376bddcc2dbf4f71ae220400e64f5a7b)
+- [my website](https://www.notion.so/selflearning/Esther-Yang-693c2bb1cba7461e8dc7e6c47ea3fe5f) (Serious stuff)
+- [my writing](https://lampmaa22.medium.com/) (Feynman learning technique)
+- [my book list](https://www.notion.so/selflearning/Readwise-376bddcc2dbf4f71ae220400e64f5a7b) (Guilty pleasure)
 
