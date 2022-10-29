@@ -13,9 +13,8 @@ I'm from Taiwan 🇹🇼 currently @ Minerva University / Google Research Fellow
 - [AGI](https://www.notion.so/selflearning/A-Thousand-Brains-b813ebcdddc0424ebb4356f1de6f2a29)
 
 📫 How to reach me: lampmaa22@gmail.com 
-😄 Pronouns: It/its/its 🐕 
 
-⚡️ Visit 
+⚡️ To learn more about me, visit 
 - [my website](https://www.notion.so/selflearning/Esther-Yang-693c2bb1cba7461e8dc7e6c47ea3fe5f)
 - [my writing](https://lampmaa22.medium.com/capstone-side-project-management-best-practices-a416086351c0)
-to learn more about me! 
+
