@@ -1,7 +1,7 @@
 # Esther Yang 
 
 ### I am Esther, a strategy-addict who is in love with learning techniques, human behaviors, causal inference, and game theory. 
-🇹🇼  I'm from Taiwan, currently @ Minerva University 🇺🇸 / Google Research Fellow, ex-Meta data scientist intern
+🇹🇼  I'm from Taiwan, currently @jungle ai. Minerva University 🇺🇸, ex-Google Research Fellow, ex-Meta data scientist intern
 
 🔭 80% non-English native speaker constitutes my school, so I'm currently working on NLP research, [Understand How English Fluency Affects Grading in Minerva](https://www.notion.so/selflearning/Project-Summary-c17648b746d147a286a6c057d5c55d10), to understand if grading bias exists toward English fluency. 
 
